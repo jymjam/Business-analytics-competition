@@ -1,6 +1,5 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
-const fs = require('fs')
 
 const URL = "https://www.zipdatamaps.com/monroe-ny-county-zipcodes"
 
